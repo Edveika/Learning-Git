@@ -2,7 +2,7 @@
 
 void print(std::string& text)
 {
-    std::cout << text;
+    std::cout << text << std::endl;
 }
 
 int main()
